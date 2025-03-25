@@ -6,6 +6,12 @@
 
 Mapping road networks and monitoring vehicle movements is critical for urban planning, traffic management, and the development of autonomous navigation systems. Recent advances in drone technology and computer vision have enabled the capture of detailed aerial imagery and extraction of valuable information. This project utilizes bird’s-eye view drone footage to create a high-resolution map of a scanned area and track vehicle trajectories within it. The integrated system provides a comprehensive visualization of road activity, offering insights into traffic flow and vehicle behavior.
 
+<p align="center">
+  <img src="results/final_panorama.jpg" alt="Image 1" width="300" />
+  <img src="results/final_panorama_with_trajectories.png" alt="Image 2" width="300" />
+</p>
+
+
 ## Workflow
 
 1. **Map Stitching:** The workflow begins with stitching consecutive frames from drone footage to generate a seamless map of the observed region.
